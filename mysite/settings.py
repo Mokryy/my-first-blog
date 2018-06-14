@@ -25,7 +25,7 @@ SECRET_KEY = 'blviww*$-rws%o+8s3%$f+=$1dij2_s^q100+)h&t2(1n&kvbi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mokryy.pythonanywhere.com']
 
 
 # Application definition
